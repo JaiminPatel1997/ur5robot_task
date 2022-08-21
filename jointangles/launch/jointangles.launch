@@ -1,0 +1,8 @@
+<launch>
+  <!-- My Package launch file -->
+
+  <node pkg="jointangles" type="jointanglesnode.py" name="jointanglesnode" output="screen">
+   </node>
+</launch>
+
+
